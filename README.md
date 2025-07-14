@@ -1,36 +1,28 @@
-#💻 Project Report: Laptop Price Analysis
+💻 Project Report: Laptop Price Analysis
 
-#1. Project Overview
-#2. 🎯 Objective:
-#To analyze laptop specifications and their impact on pricing. 
-#The goal is to understand key features influencing laptop prices and help both customers and sellers make informed decisions through data-driven insights.
+1. Project Overview
+   
+🎯 Objective:
+To analyze laptop specifications and their impact on pricing. 
+The goal is to understand key features influencing laptop prices and help both customers and sellers make informed decisions through data-driven insights.
 
-#3. Dataset Description
+2. Dataset Description
 Source: E-commerce laptop product listings.
-
 
 Size: ~1300 rows, 12+ columns.
 
 
 Features:
-
-
 Company, TypeName, Inches, ScreenResolution, Cpu, Ram, Memory, Gpu, OpSys, Weight, Price
-
-
 
 3. Tools & Libraries Used
 Language: Python
 
 
 Libraries:
-
-
 Pandas, NumPy – data cleaning and manipulation
 
-
 Matplotlib, Seaborn – data visualization
-
 
 Scikit-learn – label encoding (if applicable)
 
@@ -39,19 +31,16 @@ Platform: Jupyter Notebook / Google Colab
 
 
 
+
 4. Data Preprocessing
 Null Values: Checked and confirmed no nulls.
 
 
 Data Cleaning:
-
-
 Removed 'GB' from RAM and Memory fields, converted to numeric
 
 
 Extracted important subfields:
-
-
 e.g., From ScreenResolution: identified touchscreen presence
 
 
