@@ -1,4 +1,4 @@
-💻 Project Report: Laptop Price Analysis
+💻 Laptop Price Analysis
 
 1. Project Overview
    
