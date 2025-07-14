@@ -1,10 +1,11 @@
-💻 Project Report: Laptop Price Analysis
+#💻 Project Report: Laptop Price Analysis
 
-1. Project Overview
-🎯 Objective:
-To analyze laptop specifications and their impact on pricing. The goal is to understand key features influencing laptop prices and help both customers and sellers make informed decisions through data-driven insights.
+#1. Project Overview
+#2. 🎯 Objective:
+#To analyze laptop specifications and their impact on pricing. 
+#The goal is to understand key features influencing laptop prices and help both customers and sellers make informed decisions through data-driven insights.
 
-2. Dataset Description
+#3. Dataset Description
 Source: E-commerce laptop product listings.
 
 
